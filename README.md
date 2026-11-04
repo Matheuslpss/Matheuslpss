@@ -1,4 +1,4 @@
-![Banner do Matheus](./banner.gitperfil)
+![Banner do Matheus](./banner.png)
 ## Hi there 👋
 
 <!--
